@@ -176,11 +176,11 @@ a.small {
             user-select: none;
 }
 
-.btn .btn-left {
+.btn.btn-left {
   float: left;
 }
 
-.btn .btn-right {
+.btn.btn-right {
   float: right;
 }
 
